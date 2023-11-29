@@ -2,6 +2,11 @@
 
 Criando um sistema de Site de Filmes. Projeto adquirido na documentação da OutSystems
 
+## Utilizar Login de Teste
+
+- Username: teste
+- Password: 123
+
 ## Módulo OSMDb
 
 Módulo responsavel de gerenciar todas os blocos e telas e ações de tela que sarão consumidos pelo usuário final
